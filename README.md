@@ -40,7 +40,7 @@ This project was built as a personal portfolio project to showcase skills in Rea
 - **Exclusive Offers** — Time-limited deals (Summer Escape, Romantic Getaway, Luxury Retreat)
 -  **Room Booking** — Book available rooms with real-time availability status
 - **My Bookings** — View and track personal booking history
-- *Guest Reviews** — Read testimonials from verified guests
+- **Guest Reviews** — Read testimonials from verified guests
 - **Experience Page** — Explore curated dining, wellness, adventure, and events offerings
 -  **Newsletter Subscription** — Stay updated with offers and travel inspiration
 
