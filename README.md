@@ -1,4 +1,4 @@
-# # QuickStay — Hotel Booking Management System
+## QuickStay — Hotel Booking Management System
 
 > A full-stack hotel booking web application with real-time room management, secure authentication, and a hotel admin dashboard.
 
