@@ -137,12 +137,12 @@ ALTER TABLE hotel_booking.rooms ADD COLUMN city VARCHAR(100) DEFAULT 'Mumbai';
 
 ##  Getting Started
 
-### Prerequisites
+## Prerequisites
 - Node.js v18+
 - MySQL 8.0+
 - npm or yarn
 
-### Installation
+## Installation
 
 
 # 1. Clone the repository
@@ -156,10 +156,10 @@ npm install
 
 # 4. Set up environment variables
 cp .env.example .env.local
-# Fill in your credentials (see Environment Variables section)
+Fill in your credentials (see Environment Variables section)
 
 # 5. Set up the database
-# Run the SQL schema in MySQL Workbench or terminal
+Run the SQL schema in MySQL Workbench or terminal
 mysql -u root -p < database/schema.sql
 
 # 6. Start the development server
@@ -214,7 +214,10 @@ DB_NAME=hotel_booking
 
 Dharshini S
 Full Stack Developer
-Skills: HTML,CSS,JavaScript,React.js,Java Focus: Frontend Development | Backend Development
+
+Skills: HTML,CSS,JavaScript,React.js,Java 
+
+Focus: Frontend Development | Backend Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 
