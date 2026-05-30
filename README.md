@@ -145,24 +145,24 @@ ALTER TABLE hotel_booking.rooms ADD COLUMN city VARCHAR(100) DEFAULT 'Mumbai';
 ## Installation
 
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/quickstay.git
 
-# 2. Navigate to the project directory
+2. Navigate to the project directory
 cd quickstay
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Set up environment variables
+4. Set up environment variables
 cp .env.example .env.local
 Fill in your credentials (see Environment Variables section)
 
-# 5. Set up the database
+5. Set up the database
 Run the SQL schema in MySQL Workbench or terminal
 mysql -u root -p < database/schema.sql
 
-# 6. Start the development server
+6. Start the development server
 npm run dev
 
 
@@ -222,7 +222,7 @@ Focus: Frontend Development | Backend Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 
-If you found this project helpful, please give it a star!
+If you found this project helpful! please give it a star!
 
 ##  License
 
