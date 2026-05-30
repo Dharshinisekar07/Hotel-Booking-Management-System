@@ -73,7 +73,7 @@ This project was built as a personal portfolio project to showcase skills in Rea
 
 The application uses a MySQL database named hotel_booking with the following tables:
 
-### `rooms` Table
+### rooms Table
 | Column | Type | Description |
 |---|---|---|
 | id | INT (PK) | Auto-increment primary key |
@@ -213,6 +213,7 @@ DB_NAME=hotel_booking
 ##  Author
 
 Dharshini S
+
 Full Stack Developer
 
 Skills: HTML,CSS,JavaScript,React.js,Java 
