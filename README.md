@@ -212,9 +212,13 @@ DB_NAME=hotel_booking
 
 ##  Author
 
-*Dharshini.S
+Dharshini S
+Full Stack Developer
+Skills: HTML,CSS,JavaScript,React.js,Java Focus: Frontend Development | Backend Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+
+If you found this project helpful, please give it a star!
 
 ##  License
 
